@@ -24,10 +24,13 @@ Since overfishing and destructive fishing methods impart a tremendous burden on 
 
 
 ### Project Goals
-1. Use Global Fishing Watch's dataset to train a model that can identify different types of fishing behavior
-2. Apply the model to Global Fishing Watch's testing dataset to categorize fighing behaviors.
+1. Use Global Fishing Watch's dataset to train a model that can identify different types of fishing behavior.
+2. Apply the model to Global Fishing Watch's testing dataset to categorize fishing behaviors.
 3. (Longer Term) Can we predict the fishing behaviors with less data? That is, in real time?
 
+### Unknowns
+- How do 'dark spots' (periods in which the ship is not transmitting/receiving AIS data, either on purpose or due to techincal difficulty) impact the classification?
+- This dataset contains already identified segments of trips. Can we take a much larger set of a ship's data and identify which aspects of it were attributed to the actual fishing method, rather than simply traveling or halting in the ocean?
 
 ### Inspiration
 - [Catching industrial fishing incursions into inshore waters of Africa from space](https://onlinelibrary-wiley-com.ccl.idm.oclc.org/doi/full/10.1111/faf.12436)
