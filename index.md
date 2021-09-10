@@ -6,6 +6,7 @@ By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-
  <figcaption align="center">Fig 1. AIS data from a troller ship</figcaption>
  <img width="795" alt="Screen Shot 2021-09-09 at 10 08 56 PM" src="https://user-images.githubusercontent.com/58823003/132802815-50380b9b-2feb-476a-940a-ed98fe6fb18c.png">
 </figure>
+
 [Source](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1)
 
 <figure>
@@ -14,6 +15,7 @@ By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-
 <img width="540" alt="Screen Shot 2021-09-09 at 10 14 30 PM" src="https://user-images.githubusercontent.com/58823003/132803200-79b13c7f-e8fc-4f8e-9dca-6bfb59308848.png">
  
 </figure>
+
 [Source](https://link-springer-com.ccl.idm.oclc.org/article/10.1007/s11277-020-07200-w)
  
 Combining this identification method with other datasets from [Global Fishing Watch](https://globalfishingwatch.org/data-download/), the vessel's activities can be categorized as either legal or illegal, depending on parameters such as country of origin and local maritime laws.
