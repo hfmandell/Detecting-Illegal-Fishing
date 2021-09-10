@@ -3,8 +3,11 @@ By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-
 
 <img width="795" alt="Screen Shot 2021-09-09 at 10 08 56 PM" src="https://user-images.githubusercontent.com/58823003/132802815-50380b9b-2feb-476a-940a-ed98fe6fb18c.png">
 
-Above is an example of AIS data from a troller ship.
+Above is an example of AIS data from a troller ship. Below are examples of what these data points may look like for a long liner or reefer fishing activities.
 
+<img width="540" alt="Screen Shot 2021-09-09 at 10 14 30 PM" src="https://user-images.githubusercontent.com/58823003/132803200-79b13c7f-e8fc-4f8e-9dca-6bfb59308848.png">
+
+Since overfishing and destructive fishing methods impart a tremendous burden on Earth's oceanic ecosystem, the identification of fishing patterns is key to catching and halting illegal fishing methods as soon as possible. 
 
 
 ### Project Goals
