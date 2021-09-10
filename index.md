@@ -3,15 +3,18 @@ By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-
 
 <figure>
  
- <figcaption align="center"><b>Fig 1. <a href=https://link-springer-com.ccl.idm.oclc.org/article/10.1007/s11277-020-07200-w>Source</a></figcaption>
+ <figcaption align="center">Fig 1. AIS data from a troller ship; <a href=https://globalfishingwatch.org/data-download/datasets/public-training-data-v1>Source</a></figcaption>
  <img width="795" alt="Screen Shot 2021-09-09 at 10 08 56 PM" src="https://user-images.githubusercontent.com/58823003/132802815-50380b9b-2feb-476a-940a-ed98fe6fb18c.png">
  
 </figure>
 
-Above is an example of AIS data from a troller ship. Below are examples of what these data points may look like for long liner or reefer fishing activities.
-
+<figure>
+ 
+ <figcaption align="center">Fig 2. Mapped data points may for long liner and reefer fishing activities; <a href=https://link-springer-com.ccl.idm.oclc.org/article/10.1007/s11277-020-07200-w>Source</a></figcaption>
 <img width="540" alt="Screen Shot 2021-09-09 at 10 14 30 PM" src="https://user-images.githubusercontent.com/58823003/132803200-79b13c7f-e8fc-4f8e-9dca-6bfb59308848.png">
-
+ 
+</figure>
+ 
 Combining this identification method with other datasets from [Global Fishing Watch](https://globalfishingwatch.org/data-download/), the vessel's activities can be categorized as either legal or illegal, depending on parameters such as country of origin and local maritime laws.
 
 Since overfishing and destructive fishing methods impart a tremendous burden on Earth's oceanic ecosystem, the identification of fishing patterns is key to catching and halting illegal fishing methods as soon as possible. 
