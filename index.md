@@ -1,3 +1,5 @@
+# Detecting Illegal Fishing
+
 ### Project Description
 By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1), I will train a neural network to classify vessels and detect a variety of fishing events. The network will be fed [AIS](https://spire.com/wiki/ais-tracking-data-your-ultimate-guide/) (Automatic Identification System) data, which is a required tracking system that uses GPS sensors on ships, and potentially VMS (Vessel Monitoring System) data as well. 
 
