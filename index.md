@@ -11,7 +11,7 @@ By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-
 
 <figure>
  
- <figcaption align="center">Fig 2. Mapped data points may for long liner and reefer fishing activities</figcaption>
+ <figcaption align="center">Fig 2. Mapped data points for long liner and reefer fishing activities</figcaption>
 <img width="540" alt="Screen Shot 2021-09-09 at 10 14 30 PM" src="https://user-images.githubusercontent.com/58823003/132803200-79b13c7f-e8fc-4f8e-9dca-6bfb59308848.png">
  
 </figure>
