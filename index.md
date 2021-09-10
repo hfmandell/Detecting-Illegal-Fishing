@@ -31,6 +31,10 @@ Since overfishing and destructive fishing methods impart a tremendous burden on 
 
 ### Inspiration
 - [Catching industrial fishing incursions into inshore waters of Africa from space](https://onlinelibrary-wiley-com.ccl.idm.oclc.org/doi/full/10.1111/faf.12436)
+- [Fishing Vessels Behavior Identification for Combating IUU Fishing: Enable Traceability at Sea](https://link-springer-com.ccl.idm.oclc.org/article/10.1007/s11277-020-07200-w)
+- [An Automatic Identification System (AIS) Database for
+Maritime Trajectory Prediction and Data Mining](https://arxiv.org/pdf/1607.03306.pdf)
+- [A Deep Learning Approach for Fishing Vessel Classification from VMS Trajectories Using Recurrent Neural Networks](https://link-springer-com.ccl.idm.oclc.org/chapter/10.1007/978-3-030-44267-5_20)
 
 <!-- ### Markdown
 
