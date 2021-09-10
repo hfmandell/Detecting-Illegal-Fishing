@@ -1,7 +1,3 @@
-# Detecting Illegal Fishing
-## A Project Proposal for CS152
-
-
 ### Project Description
 By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1), I will train a neural network to classify vessels and detect a variety of fishing events. The network will be fed [AIS](https://spire.com/wiki/ais-tracking-data-your-ultimate-guide/) (Automatic Identification System) data, which is a required tracking system that uses GPS sensors on ships, and potentially VMS (Vessel Monitoring System) data as well. 
 
@@ -14,7 +10,7 @@ Above is an example of AIS data from a troller ship.
 ### Project Goals
 1. Use Global Fishing Watch's dataset to train a model that can identify different types of fishing behavior
 2. Apply the model to Global Fishing Watch's testing dataset to categorize fighing behaviors.
-3. (Longer Term) Can we predict the fishing behaviors with less data? 
+3. (Longer Term) Can we predict the fishing behaviors with less data? That is, in real time?
 
 
 ### Inspiration
