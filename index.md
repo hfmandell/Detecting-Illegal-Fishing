@@ -4,8 +4,14 @@
 By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1), I will train a neural network to classify vessels and detect a variety of fishing events. The network will be fed [AIS](https://spire.com/wiki/ais-tracking-data-your-ultimate-guide/) (Automatic Identification System) data, which is a required tracking system that uses GPS sensors on ships, and potentially VMS (Vessel Monitoring System) data as well. 
 
 <figure>
+ <figcaption align="center">Fig 1. Data Files & Variables</figcaption>
+ <img width="499" alt="Screen Shot 2021-09-16 at 12 03 31 AM" src="https://user-images.githubusercontent.com/58823003/133565959-9a5c833e-edc7-4167-ab31-234adb7a3440.png">
+</figure>
+[Source](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1)
+
+<figure>
  
- <figcaption align="center">Fig 1. AIS data from a troller ship</figcaption>
+ <figcaption align="center">Fig 2. AIS data from a troller ship</figcaption>
  <img width="795" alt="Screen Shot 2021-09-09 at 10 08 56 PM" src="https://user-images.githubusercontent.com/58823003/132802815-50380b9b-2feb-476a-940a-ed98fe6fb18c.png">
 </figure>
 
@@ -13,7 +19,7 @@ By ingesting [fishing vessel tracking data](https://globalfishingwatch.org/data-
 
 <figure>
  
- <figcaption align="center">Fig 2. Mapped data points for long liner and reefer fishing activities</figcaption>
+ <figcaption align="center">Fig 3. Mapped data points for long liner and reefer fishing activities</figcaption>
 <img width="540" alt="Screen Shot 2021-09-09 at 10 14 30 PM" src="https://user-images.githubusercontent.com/58823003/132803200-79b13c7f-e8fc-4f8e-9dca-6bfb59308848.png">
  
 </figure>
